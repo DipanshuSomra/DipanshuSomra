@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DipanshuSomra
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning DSA, Full Stack, Data Science
+- 🌱 I’m currently learning DSA, Full Stack Development
 - 📫 How to reach me somradipanshu@gmail.com
 
 <!---
